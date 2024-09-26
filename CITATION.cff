@@ -1,0 +1,21 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Yu"
+  given-names: "Shangdi"
+  orcid: "https://orcid.org/0000-0002-8907-692X"
+- family-names: "Engels"
+  given-names: "Joshua "
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Huang"
+  given-names: "Yihao"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Shun"
+  given-names: "Julian "
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "PECANN: Parallel Efficient Clustering with Graph-Based
+Approximate Nearest Neighbor Search"
+version: 1.0.0
+doi: 
+date-released: 2023-12-1
+url: "https://github.com/yushangdi/DPC-ANN/"
